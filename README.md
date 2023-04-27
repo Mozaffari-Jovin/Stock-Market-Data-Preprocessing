@@ -1,4 +1,4 @@
 # Stock-Market-Data-Preprocessing
 Stock market data preprocessing with stock price feeds
 
-[StockChart](StockChart.png)
+![StockChart](StockChart.png)
